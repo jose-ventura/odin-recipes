@@ -1,0 +1,14 @@
+* {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.myImages{
+    height: auto;
+    width: 100%;
+  /* even more control with max-width */
+    max-width: 720px;
+}
+
+.Ingredients{
+  background-color: aqua;
+}
